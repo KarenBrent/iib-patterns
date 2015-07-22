@@ -25,7 +25,7 @@
             "id": "com.ibm.etools.mft.pattern.fp",
             "name": "File Processing",
             "parent_category_id": "com.ibm.etools.pattern",
-            "doc_url": "http://karenbrent.github.io/iib-patterns/en/categories/com.ibm.etools.mft.pattern.fp/wmb_patterns_fp.htm"
+            "doc_url": "http://karenbrent.github.io/iib-patterns/en/categories/file-processing/wmb_patterns_fp.htm"
         },
         {
             "id": "com.ibm.etools.mft.pattern.fp.rd",
