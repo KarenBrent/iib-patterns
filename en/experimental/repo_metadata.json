@@ -33,8 +33,24 @@
             "parent_category_id": "com.ibm.etools.mft.pattern.fp",
             "doc_url": "http://karenbrent.github.io/iib-patterns/en/categories/file-processing/record-distribution/overview.htm"
         }
-
-
+        {
+            "id": "com.ibm.etools.mft.pattern.eis",
+            "name": "Application Integration",
+            "parent_category_id": "com.ibm.etools.pattern",
+            "doc_url": "http://karenbrent.github.io/iib-patterns/en/categories/application-integration/overview.htm"
+        }       
+        {
+            "id": "categories.Id1399d053e6a802ffe54c6d2cf38",
+            "name": "BPM",
+            "parent_category_id": "com.ibm.etools.mft.pattern.eis",
+            "doc_url": "http://karenbrent.github.io/iib-patterns/en/categories/application-integration/bpm/overview.htm"
+        }
+        {
+            "id": "com.ibm.etools.mft.pattern.eis.sap",
+            "name": "SAP",
+            "parent_category_id": "com.ibm.etools.mft.pattern.eis",
+            "doc_url": "http://karenbrent.github.io/iib-patterns/en/categories/application-integration/sap/overview.htm"
+        }
 
 
      ],
