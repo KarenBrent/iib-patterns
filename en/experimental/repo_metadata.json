@@ -130,7 +130,7 @@
                 "feature_group_name" : "com.ibm.etools.mft.pattern.mbi.ms.xmlmq.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.etools.mft.pattern.mbi.ms.xmlmq.Feature.NL.feature.group",
                 "qualifier" : "0.1.0.0",
-                "patternzipURL" : "https://github.com/KarenBrent/message-splitter-mq-oneway-xml-pattern/releases/download/0.1/MessageSplitterMQOneWay.patternzip",
+                "patternzipURL" : "https://github.com/KarenBrent/message-splitter-mq-oneway-xml-pattern/releases/download/v0.1/MessageSplitterMQOneWay.patternzip",
                 "patternzipSize" : "222.3 KB"
 
               }
