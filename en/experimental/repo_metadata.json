@@ -48,6 +48,18 @@
             "name": "SAP",
             "parent_category_id": "com.ibm.etools.mft.pattern.eis",
             "doc_url": "http://karenbrent.github.io/iib-patterns/en/categories/application-integration/sap/overview.htm"
+        },
+        {
+            "id": "com.ibm.etools.mft.pattern.mbi",
+            "name": "Message-based integration",
+            "parent_category_id": "com.ibm.etools.pattern",
+            "doc_url": "http://karenbrent.github.io/iib-patterns/en/categories/message-based-integration/wmb_patterns_mbi.htm"
+        },
+        {
+            "id": "com.ibm.etools.mft.pattern.mbi.ms",
+            "name": "Message splitter",
+            "parent_category_id": "com.ibm.etools.mft.pattern.mbi",
+            "doc_url": "http://karenbrent.github.io/iib-patterns/en/categories/message-based-integration/message-splitter/overview.htm"
         }
 
 
