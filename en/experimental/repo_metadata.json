@@ -6,75 +6,18 @@
             "name": "Patterns",
             "parent_category_id": null,
             "doc_url": null
-        },
-        {
-            "id": "categories.Id137f11207e577a6cd936f6b8717",
-            "name": "Mobile",
-            "parent_category_id": "com.ibm.etools.pattern",
-            "doc_url": "http://karenbrent.github.io/iib-patterns/en/categories/mobile/overview.htm"
-        },
-        {
-            "id": "categories.Id13e1237d9d5444112c7f0ad8e88",
-            "name": "MessageSight",
-            "parent_category_id": "categories.Id137f11207e577a6cd936f6b8717",
-            "doc_url": "http://karenbrent.github.io/iib-patterns/en/categories/mobile/messagesight/overview.htm"
-        },
-        {
-            "id": "com.ibm.etools.mft.pattern.fp",
-            "name": "File Processing",
-            "parent_category_id": "com.ibm.etools.pattern",
-            "doc_url": "http://karenbrent.github.io/iib-patterns/en/categories/file-processing/wmb_patterns_fp.htm"
-        },
-        {
-            "id": "com.ibm.etools.mft.pattern.fp.rd",
-            "name": "Record Distribution",
-            "parent_category_id": "com.ibm.etools.mft.pattern.fp",
-            "doc_url": "http://karenbrent.github.io/iib-patterns/en/categories/file-processing/record-distribution/overview.htm"
-        },
-        {
-            "id": "com.ibm.etools.mft.pattern.eis",
-            "name": "Application Integration",
-            "parent_category_id": "com.ibm.etools.pattern",
-            "doc_url": "http://karenbrent.github.io/iib-patterns/en/categories/application-integration/overview.htm"
-        },       
-        {
-            "id": "categories.Id1399d053e6a802ffe54c6d2cf38",
-            "name": "BPM",
-            "parent_category_id": "com.ibm.etools.mft.pattern.eis",
-            "doc_url": "http://karenbrent.github.io/iib-patterns/en/categories/application-integration/bpm/overview.htm"
-        },
-        {
-            "id": "com.ibm.etools.mft.pattern.eis.sap",
-            "name": "SAP",
-            "parent_category_id": "com.ibm.etools.mft.pattern.eis",
-            "doc_url": "http://karenbrent.github.io/iib-patterns/en/categories/application-integration/sap/overview.htm"
-        },
-        {
-            "id": "com.ibm.etools.mft.pattern.mbi",
-            "name": "Message-based integration",
-            "parent_category_id": "com.ibm.etools.pattern",
-            "doc_url": "http://karenbrent.github.io/iib-patterns/en/categories/message-based-integration/wmb_patterns_mbi.htm"
-        },
-        {
-            "id": "com.ibm.etools.mft.pattern.mbi.ms",
-            "name": "Message splitter",
-            "parent_category_id": "com.ibm.etools.mft.pattern.mbi",
-            "doc_url": "http://karenbrent.github.io/iib-patterns/en/categories/message-based-integration/message-splitter/overview.htm"
         }
-
 
      ],
 
  
-
-
     "patterns": [
 
         
         {
             "id" : "com.ibm.etools.mft.pattern.messaging.eventfilter",
             "name": "Event Filter",
-            "category_id": "categories.Id13e1237d9d5444112c7f0ad8e88",
+            "category_id": "com.ibm.etools.pattern",
             "doc_url": "http://ot4i.github.io/event-filter-pattern/pattern/en/overview.htm",
             "ibm_supported": false,
 
@@ -101,7 +44,7 @@
      {
             "id" : "com.ibm.etools.mft.pattern.fp.rd.httponeway",
             "name": "HTTP one-way",
-            "category_id": "com.ibm.etools.mft.pattern.fp.rd",
+            "category_id": "com.ibm.etools.pattern",
             "doc_url": "http://ot4i.github.io/file-http-pattern/pattern/en/overview.htm",
             "ibm_supported": false,
 
@@ -128,7 +71,7 @@
      {
             "id" : "com.ibm.etools.mft.pattern.mbi.ms.xmlmq",
             "name": "Message Splitter for WebSphere MQ: one-way (for XML)",
-            "category_id": "com.ibm.etools.mft.pattern.mbi.ms",
+            "category_id": "com.ibm.etools.pattern",
             "doc_url": "http://karenbrent.github.io/message-splitter-mq-oneway-xml-pattern/pattern/en/overview.htm",
             "ibm_supported": false,
 
